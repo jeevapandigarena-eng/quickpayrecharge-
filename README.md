@@ -1,1 +1,1 @@
-# quickpayrecharge-
+web: python server.py
